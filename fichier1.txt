@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9667-E867
+
+ Directory of C:\apps\app1
+
+03/12/2024  06:05 PM    <DIR>          .
+03/12/2024  06:05 PM    <DIR>          ..
+03/12/2024  06:05 PM                 0 fichier1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,291,948,032 bytes free
